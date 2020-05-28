@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1589697501 source:c:\users\54112\desktop\ejercicios en c\actualizacion de archivo maestro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1589696982 c:\users\54112\desktop\ejercicios en c\actualizacion de archivo maestro\funciones.h
+
+1589696982 source:c:\users\54112\desktop\ejercicios en c\actualizacion de archivo maestro\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
